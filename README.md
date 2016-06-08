@@ -9,4 +9,5 @@ Planned expanders:
 * Suboctave generator w/ -1 and -2 Saw waves
 * "Supersaw" stack
 * Some manner of wavefolder
+* AM and FM
 
